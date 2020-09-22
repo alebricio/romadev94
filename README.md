@@ -1,6 +1,6 @@
 ### About me 👋
 
-Hi! My fullname is Carlos Molero Mata and I'm a full stack programmer. I'm a collaborative and innovative person always excited to start a new and interesting project alone or in a team.
+Hi! My fullname is Carlos Molero Mata and I'm a full stack developer. I'm a collaborative and innovative person always excited to start a new and interesting project alone or in a team.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn%20Profile-0954a5?logo=linkedin)](https://www.linkedin.com/in/carlos-molero-mata-8a12111a3/)
 [![Twitter](https://img.shields.io/badge/Twitter-66c7ff?logo=twitter)](https://twitter.com/Roma_Dev94)
