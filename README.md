@@ -6,7 +6,7 @@ Hi! My fullname is Carlos Molero Mata and I'm a full stack developer. I'm a coll
 [![Twitter](https://img.shields.io/badge/Twitter-66c7ff?logo=twitter)](https://twitter.com/Roma_Dev94)
 [![Gmail](https://img.shields.io/badge/Contact%20me-ffffff?logo=gmail)](mailto:carlosrooma94@gmail.com)
 
-### Education :mortar_board:
+### Education & self-learning :mortar_board:
 
 2019 - 2021 | High Certification in Multiplatform App Development (In progress)
 
