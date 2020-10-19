@@ -10,10 +10,10 @@ Hi! My fullname is Carlos Molero Mata and I'm a full stack developer. I'm a coll
 
 2019 - 2021 | High Certification in Multiplatform App Development (In progress)
 
-![ResponsiveWebDesign](https://img.shields.io/badge/Responsive%20Web%20Design-949494?logo=freeCodeCamp) 
-![MERNStack](https://img.shields.io/badge/MERN%20Stack-ffffff?logo=udemy) 
-![scrimbaReact](https://img.shields.io/badge/React%20Intermediate-000000?logo=react) 
-![JavascriptBootcamp](https://img.shields.io/badge/Javascript%20Bootcamp-ffffff?logo=udemy) 
+[![ResponsiveWebDesign](https://img.shields.io/badge/Responsive%20Web%20Design-949494?logo=freeCodeCamp) ](https://www.freecodecamp.org/certification/croma94/responsive-web-design)
+[![MERNStack](https://img.shields.io/badge/MERN%20Stack-ffffff?logo=udemy) ](https://udemy-certificate.s3.amazonaws.com/image/UC-cb4de13e-8267-4b4d-8b1b-c861434f5ad6.jpg?v=1592783996000)
+[![scrimbaReact](https://img.shields.io/badge/React%20Intermediate-000000?logo=react) ](https://scrimba.com/certificate/uEYNeqc3/glearnreact)
+[![JavascriptBootcamp](https://img.shields.io/badge/Javascript%20Bootcamp-ffffff?logo=udemy) ](https://udemy-certificate.s3.amazonaws.com/image/UC-c9ef6ee8-fb98-41c8-985e-fce01a941fe9.jpg?v=1594401010000)
   
 
 ### Programing languages and technologies :rocket:
