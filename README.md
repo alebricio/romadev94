@@ -35,7 +35,7 @@ Hi! My fullname is Carlos Molero Mata and I'm a full stack developer. I'm a coll
  
   :briefcase: Backend developer (PHP).
   
-- [LibreBORME](https://www2.librebor.me) | LibreBOR (formerly known as LibreBORME) was created with the intention of "opening" the data of the Mercantile Registry of Spain. Taking advantage of the fact that the BORME has been published in electronic format since 2009, LibreBOR is in charge of reading it for you every morning and adding the latest changes to its database. In this way you can do semantic searches, receive notifications and use this data in a simple way and for whatever you want.
+- [LibreBOR](https://librebor.me) (formerly known as LibreBORME) was created with the intention of "opening" the data of the Mercantile Registry of Spain. Taking advantage of the fact that the BORME has been published in electronic format since 2009, LibreBOR is in charge of reading it for you every morning and adding the latest changes to its database. In this way you can do semantic searches, receive notifications and use this data in a simple way and for whatever you want.
  
   :briefcase: Frontend developer.
 
