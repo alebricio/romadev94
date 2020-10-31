@@ -31,6 +31,10 @@ Hi! My fullname is Carlos Molero Mata and I'm a full stack developer. I'm a coll
 
 ### Actively working on
 
+- [Malaga Events](http://www.mlgevents.art) | Creator and maintainer of this personal side-project which consists in an events search engine for the province of Malaga. In addition, there's an API service to consult and use the data.
+ 
+  :briefcase: Full stack developer.
+
 - [TuSubtitulo](https://www.tusubtitulo.com/index.php) | Platform for downloading Spanish subtitles for different types of audiovisual content.
  
   :briefcase: Backend developer (PHP).
