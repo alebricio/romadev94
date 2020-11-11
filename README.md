@@ -29,7 +29,7 @@ Hi! My fullname is Carlos Molero Mata and I'm a full stack developer. I'm a coll
 ![GitHub](https://img.shields.io/badge/Github-000000?logo=github)
 ![GitLab](https://img.shields.io/badge/Gitlab-ffffff?logo=gitlab)
 
-### Actively working on
+### Projects
 
 - [Malaga Events](https://www.mlgevents.art) | Creator and maintainer of this personal side-project which consists in an events search engine for the province of Malaga. In addition, there's an API service to consult and use the data.
  
