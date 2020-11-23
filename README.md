@@ -13,12 +13,17 @@ Hi! My fullname is Carlos Molero Mata and I'm a full stack developer. I'm a coll
 
 ## Education & self-learning :mortar_board:
 
+### Officially studying...
+
 2019 - 2021 | High Certification in Multiplatform App Development (In progress)
+
+### What have I accomplish in my free time?
 
 <p>
   <span>
   <img width=150px src="https://i.postimg.cc/6QxXbLyT/kisspng-udemy-coupon-logo-discounts-and-allowances-sales-formula-one-logo-5b419af22d06c0-31846950153.png"/>
   <ul>
+    <hr/>
     <li>Javascript Bootcamp | <a href="https://udemy-certificate.s3.amazonaws.com/image/UC-c9ef6ee8-fb98-41c8-985e-fce01a941fe9.jpg?v=1594401010000">Certificate</a></li>
         <li>MERN Stack, 10 Projects with Express js | <a href="https://udemy-certificate.s3.amazonaws.com/image/UC-cb4de13e-8267-4b4d-8b1b-c861434f5ad6.jpg?v=1592783996000">Certificate</a></li>
   </ul>
@@ -27,7 +32,7 @@ Hi! My fullname is Carlos Molero Mata and I'm a full stack developer. I'm a coll
   <ul>
     <li>Responsive Web Design | <a href="https://www.freecodecamp.org/certification/croma94/responsive-web-design">Certificate</a></li>
   </ul>
-  <img width=150px src="https://i.postimg.cc/zB5pQ3Cn/68747470733a2f2f692e706f7374696d672e63632f3032744b425477442f626c75652e706e67.png"/>
+  <img width=150px src="https://media-exp1.licdn.com/dms/image/C510BAQH0gaMh2fQrQQ/company-logo_200_200/0?e=1614211200&v=beta&t=uexKIIa8IHRjhlF8ok_ir9-dP7kkwCTDUw9_oXK80O8"/>
   <ul>
     <li>Learn Reactjs | <a href="https://img.shields.io/badge/React%20Intermediate-000000?logo=react) ](https://scrimba.com/certificate/uEYNeqc3/glearnreact">Certificate</a></li>
   </ul>
