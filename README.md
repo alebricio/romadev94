@@ -23,7 +23,6 @@ Hi! My fullname is Carlos Molero Mata and I'm a full stack developer. I'm a coll
   <span>
   <img width=150px src="https://i.postimg.cc/6QxXbLyT/kisspng-udemy-coupon-logo-discounts-and-allowances-sales-formula-one-logo-5b419af22d06c0-31846950153.png"/>
   <ul>
-    <hr/>
     <li>Javascript Bootcamp | <a href="https://udemy-certificate.s3.amazonaws.com/image/UC-c9ef6ee8-fb98-41c8-985e-fce01a941fe9.jpg?v=1594401010000">Certificate</a></li>
         <li>MERN Stack, 10 Projects with Express js | <a href="https://udemy-certificate.s3.amazonaws.com/image/UC-cb4de13e-8267-4b4d-8b1b-c861434f5ad6.jpg?v=1592783996000">Certificate</a></li>
   </ul>
