@@ -20,14 +20,14 @@ Hi! My fullname is Carlos Molero Mata and I'm a full stack developer. I'm a coll
 ### What have I accomplish in my free time?
 
 _Udemy_ 
-  - MERN Stack, 10 Projects with Express js
-  - Javascript Bootcamp
+  - [MERN Stack, 10 Projects with Express js](https://udemy-certificate.s3.amazonaws.com/image/UC-cb4de13e-8267-4b4d-8b1b-c861434f5ad6.jpg?v=1592783996000)
+  - [Javascript Bootcamp](https://udemy-certificate.s3.amazonaws.com/image/UC-c9ef6ee8-fb98-41c8-985e-fce01a941fe9.jpg?v=1594401010000)
   
 _freeCodeCamp_
-  - Responsive Web Design
+  - [Responsive Web Design](https://www.freecodecamp.org/certification/croma94/responsive-web-design)
   
 _Scrimba_
-  - Learn Reactjs
+  - [Learn Reactjs](https://scrimba.com/certificate/uEYNeqc3/glearnreact)
 
 ## Knowledge :rocket:
 
