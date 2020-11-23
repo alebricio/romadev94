@@ -11,23 +11,9 @@ Hi! My fullname is Carlos Molero Mata and I'm a full stack developer. I'm a coll
     </a>
 </span>
 
-## Education & self-learning :mortar_board:
-
-### Officially studying...
+## Education :mortar_board:
 
 2019 - 2021 | High Certification in Multiplatform App Development (In progress)
-
-### What have I accomplish in my free time?
-
-_Udemy_ 
-  - [MERN Stack, 10 Projects with Express js](https://udemy-certificate.s3.amazonaws.com/image/UC-cb4de13e-8267-4b4d-8b1b-c861434f5ad6.jpg?v=1592783996000)
-  - [Javascript Bootcamp](https://udemy-certificate.s3.amazonaws.com/image/UC-c9ef6ee8-fb98-41c8-985e-fce01a941fe9.jpg?v=1594401010000)
-  
-_freeCodeCamp_
-  - [Responsive Web Design](https://www.freecodecamp.org/certification/croma94/responsive-web-design)
-  
-_Scrimba_
-  - [Learn Reactjs](https://scrimba.com/certificate/uEYNeqc3/glearnreact)
 
 ## Knowledge :rocket:
 
@@ -95,10 +81,24 @@ _Scrimba_
 - [LibreBOR](https://librebor.me) (formerly known as LibreBORME) was created with the intention of "opening" the data of the Mercantile Registry of Spain. Taking advantage of the fact that the BORME has been published in electronic format since 2009, LibreBOR is in charge of reading it for you every morning and adding the latest changes to its database. In this way you can do semantic searches, receive notifications and use this data in a simple way and for whatever you want.
  
   :briefcase: Frontend developer.
+  
+## Courses :raised_hands:
+
+_Udemy_ 
+  - [MERN Stack, 10 Projects with Express js](https://udemy-certificate.s3.amazonaws.com/image/UC-cb4de13e-8267-4b4d-8b1b-c861434f5ad6.jpg?v=1592783996000)
+  - [Javascript Bootcamp](https://udemy-certificate.s3.amazonaws.com/image/UC-c9ef6ee8-fb98-41c8-985e-fce01a941fe9.jpg?v=1594401010000)
+  
+_freeCodeCamp_
+  - [Responsive Web Design](https://www.freecodecamp.org/certification/croma94/responsive-web-design)
+  
+_Scrimba_
+  - [Learn Reactjs](https://scrimba.com/certificate/uEYNeqc3/glearnreact)
 
 ## Statistics
 
 ![Roma github stats](https://github-readme-stats.vercel.app/api?username=RomaDev94)
+
+[![Roma top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomaDev94&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **RomaDev94/RomaDev94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
