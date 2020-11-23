@@ -68,7 +68,7 @@ Hi! My fullname is Carlos Molero Mata and I'm a full stack developer. I'm a coll
   <img src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/>
 </span>
 
-## Projects
+## Projects :raised_hands:
 
 - [Malaga Events](https://www.mlgevents.art) | Creator and maintainer of this personal side-project which consists in an events search engine for the province of Malaga. In addition, there's an API service to consult and use the data.
  
@@ -82,7 +82,7 @@ Hi! My fullname is Carlos Molero Mata and I'm a full stack developer. I'm a coll
  
   :briefcase: Frontend developer.
   
-## Courses :raised_hands:
+## Courses :heavy_check_mark:
 
 _Udemy_ 
   - [MERN Stack, 10 Projects with Express js](https://udemy-certificate.s3.amazonaws.com/image/UC-cb4de13e-8267-4b4d-8b1b-c861434f5ad6.jpg?v=1592783996000)
@@ -94,7 +94,7 @@ _freeCodeCamp_
 _Scrimba_
   - [Learn Reactjs](https://scrimba.com/certificate/uEYNeqc3/glearnreact)
 
-## Statistics
+## Statistics :chart_with_upwards_trend:
 
 ![Roma github stats](https://github-readme-stats.vercel.app/api?username=RomaDev94)
 
