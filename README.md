@@ -23,23 +23,16 @@ Hi! My fullname is Carlos Molero Mata and I'm a full stack developer. I'm a coll
         <li>MERN Stack, 10 Projects with Express js | <a href="https://udemy-certificate.s3.amazonaws.com/image/UC-cb4de13e-8267-4b4d-8b1b-c861434f5ad6.jpg?v=1592783996000">Certificate</a></li>
   </ul>
   </span>
-    <span>
   <img width=150px src="https://i.postimg.cc/sgsXvr4T/freecodecamp-vector-logo.png"/>
   <ul>
     <li>Responsive Web Design | <a href="https://www.freecodecamp.org/certification/croma94/responsive-web-design">Certificate</a></li>
   </ul>
-  </span>
-      <span>
   <img width=150px src="https://i.postimg.cc/zB5pQ3Cn/68747470733a2f2f692e706f7374696d672e63632f3032744b425477442f626c75652e706e67.png"/>
   <ul>
     <li>Learn Reactjs | <a href="https://img.shields.io/badge/React%20Intermediate-000000?logo=react) ](https://scrimba.com/certificate/uEYNeqc3/glearnreact">Certificate</a></li>
   </ul>
-  </span>
 </p>
 
-[![scrimbaReact](https://img.shields.io/badge/React%20Intermediate-000000?logo=react) ](https://scrimba.com/certificate/uEYNeqc3/glearnreact)
-
-  
 
 ## Knowledge :rocket:
 
