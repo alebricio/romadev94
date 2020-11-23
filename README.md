@@ -45,7 +45,7 @@ Hi! My fullname is Carlos Molero Mata and I'm a full stack developer. I'm a coll
 
 ### Statistics
 
-[![Roma github stats](https://github-readme-stats.vercel.app/api?username=RomaDev94)]
+![Roma github stats](https://github-readme-stats.vercel.app/api?username=RomaDev94)
 
 <!--
 **RomaDev94/RomaDev94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
