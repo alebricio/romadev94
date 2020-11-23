@@ -1,24 +1,49 @@
-### About me 👋
+## About me 👋
 
 Hi! My fullname is Carlos Molero Mata and I'm a full stack developer. I'm a collaborative and innovative person always excited to start a new and interesting project alone or in a team.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn%20Profile-0954a5?logo=linkedin)](https://www.linkedin.com/in/carlos-molero-mata-8a12111a3/)
-[![Twitter](https://img.shields.io/badge/Twitter-66c7ff?logo=twitter)](https://twitter.com/Roma_Dev94)
-[![Gmail](https://img.shields.io/badge/Contact%20me-ffffff?logo=gmail)](mailto:carlosrooma94@gmail.com)
+<span>
+  <a href="https://www.linkedin.com/in/carlos-molero-mata-8a12111a3/">
+<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="https://twitter.com/Roma_Dev94">
+<img src="https://img.shields.io/badge/<@Roma_Dev94>%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
+    </a>
+</span>
 
-### Education & self-learning :mortar_board:
+## Education & self-learning :mortar_board:
 
 2019 - 2021 | High Certification in Multiplatform App Development (In progress)
 
-[![ResponsiveWebDesign](https://img.shields.io/badge/Responsive%20Web%20Design-949494?logo=freeCodeCamp) ](https://www.freecodecamp.org/certification/croma94/responsive-web-design)
-[![MERNStack](https://img.shields.io/badge/MERN%20Stack-ffffff?logo=udemy) ](https://udemy-certificate.s3.amazonaws.com/image/UC-cb4de13e-8267-4b4d-8b1b-c861434f5ad6.jpg?v=1592783996000)
+<p>
+  <span>
+  <img width=150px src="https://i.postimg.cc/6QxXbLyT/kisspng-udemy-coupon-logo-discounts-and-allowances-sales-formula-one-logo-5b419af22d06c0-31846950153.png"/>
+  <ul>
+    <li>Javascript Bootcamp | <a href="https://udemy-certificate.s3.amazonaws.com/image/UC-c9ef6ee8-fb98-41c8-985e-fce01a941fe9.jpg?v=1594401010000">Certificate</a></li>
+        <li>MERN Stack, 10 Projects with Express js | <a href="https://udemy-certificate.s3.amazonaws.com/image/UC-cb4de13e-8267-4b4d-8b1b-c861434f5ad6.jpg?v=1592783996000">Certificate</a></li>
+  </ul>
+  </span>
+    <span>
+  <img width=150px src="https://i.postimg.cc/sgsXvr4T/freecodecamp-vector-logo.png"/>
+  <ul>
+    <li>Responsive Web Design | <a href="https://www.freecodecamp.org/certification/croma94/responsive-web-design">Certificate</a></li>
+  </ul>
+  </span>
+      <span>
+  <img width=150px src="https://i.postimg.cc/zB5pQ3Cn/68747470733a2f2f692e706f7374696d672e63632f3032744b425477442f626c75652e706e67.png"/>
+  <ul>
+    <li>Learn Reactjs | <a href="https://img.shields.io/badge/React%20Intermediate-000000?logo=react) ](https://scrimba.com/certificate/uEYNeqc3/glearnreact">Certificate</a></li>
+  </ul>
+  </span>
+</p>
+
 [![scrimbaReact](https://img.shields.io/badge/React%20Intermediate-000000?logo=react) ](https://scrimba.com/certificate/uEYNeqc3/glearnreact)
-[![JavascriptBootcamp](https://img.shields.io/badge/Javascript%20Bootcamp-ffffff?logo=udemy) ](https://udemy-certificate.s3.amazonaws.com/image/UC-c9ef6ee8-fb98-41c8-985e-fce01a941fe9.jpg?v=1594401010000)
+
   
 
-### Knowledge :rocket:
+## Knowledge :rocket:
 
-**Programming languages and environments**
+### Programming languages and environments
 
 <span>
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -30,7 +55,7 @@ Hi! My fullname is Carlos Molero Mata and I'm a full stack developer. I'm a coll
   <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 </span>
 
-**Databases**
+### Databases
 
 <span>
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -39,7 +64,7 @@ Hi! My fullname is Carlos Molero Mata and I'm a full stack developer. I'm a coll
   <img src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
 </span>
 
-**Frameworks**
+### Frameworks
 
 <span>
 <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
@@ -53,14 +78,14 @@ Hi! My fullname is Carlos Molero Mata and I'm a full stack developer. I'm a coll
 <img src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
 </span>
 
-**Design**
+### Design
 
  <span>
 <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
 </span>
 
-**Version control**
+### Version Control
 
  <span>
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
@@ -69,7 +94,7 @@ Hi! My fullname is Carlos Molero Mata and I'm a full stack developer. I'm a coll
   <img src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/>
 </span>
 
-### Projects
+## Projects
 
 - [Malaga Events](https://www.mlgevents.art) | Creator and maintainer of this personal side-project which consists in an events search engine for the province of Malaga. In addition, there's an API service to consult and use the data.
  
@@ -83,7 +108,7 @@ Hi! My fullname is Carlos Molero Mata and I'm a full stack developer. I'm a coll
  
   :briefcase: Frontend developer.
 
-### Statistics
+## Statistics
 
 ![Roma github stats](https://github-readme-stats.vercel.app/api?username=RomaDev94)
 
